@@ -9,8 +9,8 @@ Create Scheduled Tasks on Windows using calendar events
 5. Run the following to create a virtual environment `python -m venv venv` or `python3 -m venv venv` (check which one works for you)
 6. Activate the virtual environment using `pmm-venv\Scripts\activate`
 7. Install the following packages:
-`pip install pywin32`
-`pip install ics`
-`pip install requests`
-`pip install icalendar`
+ - `pip install pywin32`
+ - `pip install ics`
+ - `pip install requests`
+ - `pip install icalendar`
 8. Run `python windows-task-scheduler.py`
