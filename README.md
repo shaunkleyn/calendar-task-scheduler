@@ -14,3 +14,5 @@ Create Scheduled Tasks on Windows using calendar events
  - `pip install requests`
  - `pip install icalendar`
 8. Run `python windows-task-scheduler.py`
+
+Use the included .bat file to run the script from Task Scheduler keep your tasks up to date.
