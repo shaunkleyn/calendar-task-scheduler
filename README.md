@@ -1,6 +1,8 @@
 # calendar-task-scheduler
 Create Scheduled Tasks on Windows using calendar events
 
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 ## To run the script:
 1. Download all files in this repo
 2. Copy the Python script to a folder of your preference (I suggest creating a dedicated folder for the script as we'll be using a Python virtual environemt to run it)
