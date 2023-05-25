@@ -18,3 +18,5 @@ Create Scheduled Tasks on Windows using calendar events
 8. Run `python windows-task-scheduler.py`
 
 Use the included .bat file to run the script from Task Scheduler keep your tasks up to date.
+
+Credit goes to [Boyd Kane](https://github.com/beyarkay) (@beyarkay) for his great work on [Eskom Calendar](https://github.com/beyarkay/eskom-calendar/) :+1:
